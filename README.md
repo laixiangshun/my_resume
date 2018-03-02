@@ -1,5 +1,5 @@
 ## 介绍
-网页版访问地址：<http://laixiangshun.github.io/MyResume/>
+网页版访问地址：<http://laixiangshun.github.io/my_resume/>
 
 个人简历模板，内部包含：网页版(移动端和PC端响应式适配)、doc版
 
